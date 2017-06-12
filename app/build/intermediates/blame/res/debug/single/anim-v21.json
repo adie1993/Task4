@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/adie/Documents/Task4/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/adie/.android/build-cache/5a0015b4eac70e9998bd150cad516986bf7f463d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Task4/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/adie/.android/build-cache/5a0015b4eac70e9998bd150cad516986bf7f463d/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Task4/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/adie/.android/build-cache/5a0015b4eac70e9998bd150cad516986bf7f463d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

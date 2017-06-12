@@ -1,0 +1,7 @@
+#Tue Jun 13 00:44:23 WIB 2017
+base.0=/home/adie/Documents/Task4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ccb210799fbfadad87c71ad3b3bb0e0b5c867aa7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/adie/Documents/Task4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34e8cdeb7d8921396047dcae501489bed3ce35da/classes.dex
+base.1=/home/adie/Documents/Task4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34e8cdeb7d8921396047dcae501489bed3ce35da
+file.0=/home/adie/Documents/Task4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ccb210799fbfadad87c71ad3b3bb0e0b5c867aa7/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/adie/Documents/Task4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 251,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/ad4d6871bcd26cb7ab6ed6dd72f33a6b78ef5c69/output/res/values-gl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 251,
+                        "endOffset": 590
+                    }
+                }
+            }
+        ]
+    }
+]
